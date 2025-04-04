@@ -1,0 +1,517 @@
+[
+    {
+        "name": "CONIPUR 249 FL/1",
+        "manufacturer": "Conica",
+        "costGroups2": [
+            "350"
+        ],
+        "costGroups3": [
+            "353"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Uniopark",
+        "manufacturer": "Bauwerk",
+        "costGroups2": [
+            "350"
+        ],
+        "costGroups3": [
+            "353"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "660 Boden Standard-Spachte",
+        "manufacturer": "Mega",
+        "costGroups2": [
+            "340",
+            "350"
+        ],
+        "costGroups3": [
+            "340",
+            "350"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Estetico Universal",
+        "manufacturer": "Knauf",
+        "costGroups2": [
+            "340",
+            "350"
+        ],
+        "costGroups3": [
+            "342",
+            "353"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Finissimo Universal",
+        "manufacturer": "Knauf",
+        "costGroups2": [
+            "340",
+            "350"
+        ],
+        "costGroups3": [
+            "342",
+            "353"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Alpinaweiß Das Original",
+        "manufacturer": "Alpina",
+        "costGroups2": [
+            "340",
+            "350"
+        ],
+        "costGroups3": [
+            "342",
+            "353"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "LUCITE® MultiResist PRO",
+        "manufacturer": "Dörken GmbH &Co.KG",
+        "costGroups2": [
+            "340",
+            "350"
+        ],
+        "costGroups3": [
+            "342",
+            "353"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Decosatin ELF seidenglänzende, wasserverdünnbare Latexfarbe",
+        "manufacturer": "Sefra Farben",
+        "costGroups2": [
+            "340",
+            "350"
+        ],
+        "costGroups3": [
+            "342",
+            "353"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "StoPox GH 205",
+        "manufacturer": "STO",
+        "costGroups2": [
+            "330",
+            "360",
+            "320",
+            "340"
+        ],
+        "costGroups3": [
+            "335",
+            "364",
+            "324",
+            "344"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Proterra CEROL Flüssigwachs GE 120",
+        "manufacturer": "Hesse",
+        "costGroups2": [
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "344",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Holzschutz Grund",
+        "manufacturer": "Alpina",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "334",
+            "344",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "OSB 4 TOP Verlegeplatte",
+        "manufacturer": "Egger Holzwerkstoffe Wismar GmbH",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "331",
+            "342",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "OSB/4 EN300",
+        "manufacturer": "Swiss Kronos",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "331",
+            "342",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "OSB 4 TOP gerade Kante",
+        "manufacturer": "Egger Holzwerkstoffe Wismar GmbH",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "331",
+            "342",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "OSB 3 Verlegeplatte",
+        "manufacturer": "Egger Holzwerkstoffe Wismar GmbH",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "331",
+            "342",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "OSB 3 gerade Kante",
+        "manufacturer": "Egger Holzwerkstoffe Wismar GmbH",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "331",
+            "342",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "OSB/3 EN300",
+        "manufacturer": "Swiss Kronos",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "331",
+            "342",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Eurodekor",
+        "manufacturer": "Egger Holzwerkstoffe Wismar GmbH",
+        "costGroups2": [
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "342",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Eurospan",
+        "manufacturer": "Egger Holzwerkstoffe Wismar GmbH",
+        "costGroups2": [
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "342",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Meister Paneele. Craft",
+        "manufacturer": "Meister Werke Schulte",
+        "costGroups2": [
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "342",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Bauder Emulsion Plus",
+        "manufacturer": "Bauder",
+        "costGroups2": [
+            "330",
+            "360"
+        ],
+        "costGroups3": [
+            "335",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Isovill E-GW-B",
+        "manufacturer": "BMI",
+        "costGroups2": [
+            "330",
+            "360"
+        ],
+        "costGroups3": [
+            "335",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Villas Hydrostop Multi 4",
+        "manufacturer": "BMI",
+        "costGroups2": [
+            "330",
+            "360"
+        ],
+        "costGroups3": [
+            "335",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Villas Hydrostop Multi 5",
+        "manufacturer": "BMI",
+        "costGroups2": [
+            "330",
+            "360"
+        ],
+        "costGroups3": [
+            "335",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Delta-Mauerwerkssperre",
+        "manufacturer": "Dörken GmbH &Co.KG",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "334",
+            "344",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Delta-Noppenbahn NB",
+        "manufacturer": "Dörken GmbH &Co.KG",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "334",
+            "344",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "X-Foam Wafer Dämmplatte",
+        "manufacturer": "Ediltec",
+        "costGroups2": [
+            "360"
+        ],
+        "costGroups3": [
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "BauderECO",
+        "manufacturer": "Bauder",
+        "costGroups2": [
+            "330",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "335",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "thermotec® BEPS-WD 90N",
+        "manufacturer": "Mixit Dämmstoffe",
+        "costGroups2": [
+            "330",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "335",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "MW 035 RP",
+        "manufacturer": "Akurit",
+        "costGroups2": [
+            "330",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "335",
+            "336",
+            "354",
+            "364"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "MW 035 HP",
+        "manufacturer": "Akurit",
+        "costGroups2": [
+            "330",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "335",
+            "336",
+            "354",
+            "364"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "DHF",
+        "manufacturer": "Egger Holzwerkstoffe Wismar GmbH",
+        "costGroups2": [
+            "350"
+        ],
+        "costGroups3": [
+            "353"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "AVR Deckenschitt",
+        "manufacturer": "Geba",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "334",
+            "344",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "Brandschutzdichtmasse Silikon CFS-S SIL",
+        "manufacturer": "Hilti Austria",
+        "costGroups2": [
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "344",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    },
+    {
+        "name": "PROMASTOP®-CA",
+        "manufacturer": "Promat",
+        "costGroups2": [
+            "330",
+            "340",
+            "350",
+            "360"
+        ],
+        "costGroups3": [
+            "334",
+            "344",
+            "353",
+            "361"
+        ],
+        "picture": ""
+    }
+]

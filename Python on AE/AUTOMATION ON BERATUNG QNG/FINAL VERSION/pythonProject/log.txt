@@ -1,0 +1,47 @@
+2025-03-15 10:32:20,685 - INFO - \U0001f4c2 Modification détectée sur data.xlsx, relance du traitement...
+2025-03-15 10:32:20,687 - INFO - \U0001f504 Vérification des données à partir de data.xlsx...
+2025-03-15 10:32:21,192 - INFO - \U0001f4c2 Fichier data.xlsx chargé avec succès.
+2025-03-15 10:32:21,195 - INFO - \U0001f50d Type des éléments extraits : <class 'str'>
+2025-03-15 10:32:21,255 - INFO - \u2705 13 Données extraites et enregistrées dans excel_content_data.json
+2025-03-15 10:32:21,262 - INFO - \u2705 Données Excel enregistrées dans excel_content_data.json (13 éléments)
+2025-03-15 10:32:31,356 - INFO - \u2705 13 Données enregistrées dans content_data.json
+2025-03-15 10:32:31,365 - INFO - \u2705 Données API enregistrées dans content_data.json (13 éléments)
+2025-03-15 10:32:31,443 - INFO - \u274c Le fichier pending_data.json n'a pas été généré.
+2025-03-15 10:33:17,189 - INFO - \U0001f4c2 Modification détectée sur data.xlsx, relance du traitement...
+2025-03-15 10:33:17,190 - INFO - \U0001f504 Vérification des données à partir de data.xlsx...
+2025-03-15 10:33:17,500 - INFO - \U0001f4c2 Fichier data.xlsx chargé avec succès.
+2025-03-15 10:33:17,505 - INFO - \U0001f50d Type des éléments extraits : <class 'str'>
+2025-03-15 10:33:17,510 - INFO - \u2705 14 Données extraites et enregistrées dans excel_content_data.json
+2025-03-15 10:33:17,550 - INFO - \u2705 Données Excel enregistrées dans excel_content_data.json (14 éléments)
+2025-03-15 10:33:28,078 - INFO - \u2705 13 Données enregistrées dans content_data.json
+2025-03-15 10:33:28,084 - INFO - \u2705 Données API enregistrées dans content_data.json (13 éléments)
+2025-03-15 10:33:28,090 - INFO - \u274c Le fichier pending_data.json n'a pas été généré.
+2025-03-15 10:34:16,293 - INFO - \U0001f4c2 Modification détectée sur data.xlsx, relance du traitement...
+2025-03-15 10:34:16,294 - INFO - \U0001f504 Vérification des données à partir de data.xlsx...
+2025-03-15 10:34:16,578 - INFO - \U0001f4c2 Fichier data.xlsx chargé avec succès.
+2025-03-15 10:34:16,581 - INFO - \U0001f50d Type des éléments extraits : <class 'str'>
+2025-03-15 10:34:16,586 - INFO - \u2705 14 Données extraites et enregistrées dans excel_content_data.json
+2025-03-15 10:34:16,599 - INFO - \u2705 Données Excel enregistrées dans excel_content_data.json (14 éléments)
+2025-03-15 10:34:25,784 - INFO - \u2705 13 Données enregistrées dans content_data.json
+2025-03-15 10:34:25,792 - INFO - \u2705 Données API enregistrées dans content_data.json (13 éléments)
+2025-03-15 10:34:25,828 - INFO - \U0001f195 Nouvelles données détectées, envoi en cours...
+2025-03-15 10:34:31,948 - INFO - \U0001f5d1\ufe0f Fichier pending_data.json supprimé après envoi.
+2025-03-15 12:08:42,747 - INFO - \U0001f6d1 Arrêt du programme...
+2025-03-17 09:57:57,586 - INFO - \U0001f504 Vérification des données à partir de data.xlsx...
+2025-03-17 09:58:04,937 - INFO - \U0001f4c2 Fichier data.xlsx chargé avec succès.
+2025-03-17 09:58:05,301 - INFO - \U0001f50d Type des éléments extraits : <class 'str'>
+2025-03-17 09:58:05,377 - INFO - \u2705 14 Données extraites et enregistrées dans excel_content_data.json
+2025-03-17 09:58:05,496 - INFO - \u2705 Données Excel enregistrées dans excel_content_data.json (14 éléments)
+2025-03-17 09:58:15,141 - INFO - \u2705 14 Données enregistrées dans content_data.json
+2025-03-17 09:58:15,153 - INFO - \u2705 Données API enregistrées dans content_data.json (14 éléments)
+2025-03-17 09:58:15,735 - INFO - \u274c Le fichier pending_data.json n'a pas été généré.
+2025-03-17 09:58:15,738 - INFO - \U0001f440 Surveillance du fichier data.xlsx en cours...
+2025-03-17 10:45:11,928 - INFO - \U0001f4c2 Modification détectée sur data.xlsx, relance du traitement...
+2025-03-17 10:45:11,928 - INFO - \U0001f504 Vérification des données à partir de data.xlsx...
+2025-03-17 10:45:12,295 - INFO - \U0001f4c2 Fichier data.xlsx chargé avec succès.
+2025-03-17 10:45:12,295 - INFO - \U0001f50d Type des éléments extraits : <class 'str'>
+2025-03-17 10:45:12,343 - INFO - \u2705 14 Données extraites et enregistrées dans excel_content_data.json
+2025-03-17 10:45:12,374 - INFO - \u2705 Données Excel enregistrées dans excel_content_data.json (14 éléments)
+2025-03-17 10:45:18,410 - INFO - \u2705 14 Données enregistrées dans content_data.json
+2025-03-17 10:45:18,419 - INFO - \u2705 Données API enregistrées dans content_data.json (14 éléments)
+2025-03-17 10:45:18,432 - INFO - \u274c Le fichier pending_data.json n'a pas été généré.

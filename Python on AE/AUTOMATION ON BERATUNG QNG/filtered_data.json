@@ -1,0 +1,650 @@
+[
+    {
+        "name": "2K Contact",
+        "manufacturer": "Grundierung auf Holzparkett",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Loba"
+    },
+    {
+        "name": "2K UltraElastic",
+        "manufacturer": "Lack auf Holzparkett",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Loba"
+    },
+    {
+        "name": "3-/5-Schicht-Massivholzplatte",
+        "manufacturer": "Mehrschichtplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Binderholz GmbH"
+    },
+    {
+        "name": "AVR Deckenschitt",
+        "manufacturer": "Brandschottung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Geba"
+    },
+    {
+        "name": "Akzent 100 Wax",
+        "manufacturer": "Wachs für Holzerzeugnisse",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Loba"
+    },
+    {
+        "name": "Akzent 100 Öl",
+        "manufacturer": "Öl für Holzerzeugnisse",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Loba"
+    },
+    {
+        "name": "All-Season Pistolenschaum 1K Klasse E",
+        "manufacturer": "Bauschaum",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Greenteq"
+    },
+    {
+        "name": "Alpinaweiß Das Original",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Alpina"
+    },
+    {
+        "name": "Aviva Terra Ultra-Weiß",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Adler"
+    },
+    {
+        "name": "BauderECO",
+        "manufacturer": "Kunstschaum-Flachdachdämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Bauder"
+    },
+    {
+        "name": "Bianco Öl Aqua Rohholzeffekt 8689",
+        "manufacturer": "Öl für Holzerzeugnisse",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Biofa"
+    },
+    {
+        "name": "Biomin Innensilikatfarbe",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra Farben"
+    },
+    {
+        "name": "Blütenweiss ELF",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra Farben"
+    },
+    {
+        "name": "CONIPUR 249 FL/1",
+        "manufacturer": "Kautschukboden",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Conica"
+    },
+    {
+        "name": "CT17",
+        "manufacturer": "Grundierung auf mineralischen Oberflächen (außen)",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Ceresit"
+    },
+    {
+        "name": "Corvum 12/48",
+        "manufacturer": "Klebeband für Außenwand",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "SIGA Cover GmbH Deutschland"
+    },
+    {
+        "name": "Corvum 30/30",
+        "manufacturer": "Klebeband für Außenwand",
+        "Nachweisort": "",
+        "manufacturerName": "SIGA Cover GmbH Deutschland"
+    },
+    {
+        "name": "Decomatt",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "Decosatin Elf Seidenglänzende, Wasserverdünnbare Latexfarbe",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "Dichtfolie Streichbar",
+        "manufacturer": "Dichtstoff",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Würth"
+    },
+    {
+        "name": "Divoroll Kompakt 2S",
+        "manufacturer": "Dachbahn mit Klebestreifen",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Bmi"
+    },
+    {
+        "name": "Divoroll Top Ru",
+        "manufacturer": "Dachbahn mit Klebestreifen",
+        "Nachweisort": "",
+        "manufacturerName": "Bmi"
+    },
+    {
+        "name": "Estroperl",
+        "manufacturer": "Ausgleichschüttung nachwachsender Rohstoff",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Knauf"
+    },
+    {
+        "name": "Evolution",
+        "manufacturer": "Einblasdämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Isocell"
+    },
+    {
+        "name": "FIBRANxps 300-L",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps 400-L",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps 500-L",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps ETICS BT-I",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps ETICS GF",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps ETICS GF-I",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps FABRIC",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps INCLINE 1,67%",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps INCLINE 2,00%",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps MAESTRO",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps SEISMIC 400-L",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps SEISMIC 500-L",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FIBRANxps SEISMIC 700-L",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "FISCHER cyclepor rapid",
+        "manufacturer": "Kunstschaum-Schüttung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fischer resources"
+    },
+    {
+        "name": "Faltplatte & Rollbahn WLG 045",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Thermodämm"
+    },
+    {
+        "name": "Fensterschaum 1K Klasse E",
+        "manufacturer": "Bauschaum",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Greenteq"
+    },
+    {
+        "name": "Fibranxps 300-I",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "Fibranxps 700-L",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fibran"
+    },
+    {
+        "name": "Firnweiss ELF",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "Firnweiss Ready 20.0",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "Flächenheizungssystem Holzfaser",
+        "manufacturer": "Flächenheizungssysteme",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Eqtherm gmbh"
+    },
+    {
+        "name": "Gel-Grundierung",
+        "manufacturer": "Grundierung auf mineralischen Oberflächen (außen)",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Dinova"
+    },
+    {
+        "name": "Holzschutz Grund",
+        "manufacturer": "Holzschutzmittel auf nichttragenden Bauteilen",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Alpina"
+    },
+    {
+        "name": "ISO Feuchtraumspachtel",
+        "manufacturer": "Spachtelmassen auf mineralischen Oberflächen (innen)",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Iso GmbH"
+    },
+    {
+        "name": "ISO Haftgrund",
+        "manufacturer": "Grundierung auf mineralischen Oberflächen (innen)",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Iso GmbH"
+    },
+    {
+        "name": "ISO Malgrund",
+        "manufacturer": "Spachtelmassen auf mineralischen Oberflächen (innen)",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Iso GmbH"
+    },
+    {
+        "name": "Isovill E-GW-B",
+        "manufacturer": "Bitumen-Abdichtungsbahn",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Bmi"
+    },
+    {
+        "name": "Jordan Nature-Pur",
+        "manufacturer": "Holzschutzmittel auf nichttragenden Bauteilen",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Plantag"
+    },
+    {
+        "name": "Karat",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "Koralan Color-Lasur",
+        "manufacturer": "Lasur",
+        "Nachweisort": "",
+        "manufacturerName": "Kora Holzschutz"
+    },
+    {
+        "name": "Koralan Dekorlasur",
+        "manufacturer": "Lasur",
+        "Nachweisort": "",
+        "manufacturerName": "Kora Holzschutz"
+    },
+    {
+        "name": "Koralan Designlasur",
+        "manufacturer": "Lasur",
+        "Nachweisort": "",
+        "manufacturerName": "Kora Holzschutz"
+    },
+    {
+        "name": "LDS Kleberaupe",
+        "manufacturer": "Acrylat-Klebeband",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Knauf Insulation"
+    },
+    {
+        "name": "Lignovit Interior UV 100",
+        "manufacturer": "Lasur",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Adler"
+    },
+    {
+        "name": "Lotos Extrem",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "MW 035 HP",
+        "manufacturer": "Mineralwolle-Deckendämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Akurit"
+    },
+    {
+        "name": "MW 035 RP",
+        "manufacturer": "Mineralwolle-Deckendämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Akurit"
+    },
+    {
+        "name": "Meister Paneele. Craft",
+        "manufacturer": "Holzpaneel",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Meister werke schulte"
+    },
+    {
+        "name": "Mineralfarbe für Innen",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "NIVOPERL",
+        "manufacturer": "Dämmschüttung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Knauf"
+    },
+    {
+        "name": "Oekotan Grundierung Bgr",
+        "manufacturer": "Grundierung auf mineralischen Oberflächen (außen)",
+        "Nachweisort": "",
+        "manufacturerName": "quick-mix"
+    },
+    {
+        "name": "PA 50",
+        "manufacturer": "Ausgleichschüttung nachwachsender Rohstoff",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Knauf"
+    },
+    {
+        "name": "PROMASTOP®-CA",
+        "manufacturer": "Brandschutzcoating",
+        "Nachweisort": "",
+        "manufacturerName": "Promat"
+    },
+    {
+        "name": "PT ECOMAX 600",
+        "manufacturer": "Acrylat-Klebeband",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Teroson"
+    },
+    {
+        "name": "Papier-Tapete",
+        "manufacturer": "Tapete",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Erfurt"
+    },
+    {
+        "name": "Pecimor Betongrund",
+        "manufacturer": "Grundierung auf mineralischen Oberflächen (außen)",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "PCI"
+    },
+    {
+        "name": "Pegma color",
+        "manufacturer": "Holzschutzmittel auf nichttragenden Bauteilen",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Wimmer"
+    },
+    {
+        "name": "Perlo ELF",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "Phonestar",
+        "manufacturer": "Holzfaser-Bodendämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Wolf Bavaria"
+    },
+    {
+        "name": "Phonestrip",
+        "manufacturer": "Holzfaser-Bodendämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Wolf Bavaria"
+    },
+    {
+        "name": "Powerfloor Light",
+        "manufacturer": "Flächenheizungssysteme",
+        "Nachweisort": "",
+        "manufacturerName": "Wolf Bavaria"
+    },
+    {
+        "name": "Powerfloor Slim",
+        "manufacturer": "Flächenheizungssysteme",
+        "Nachweisort": "",
+        "manufacturerName": "Wolf Bavaria"
+    },
+    {
+        "name": "Premium Star",
+        "manufacturer": "Holzfaserplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fundermax"
+    },
+    {
+        "name": "Proterra Cerol Flüssigwachs Ge 120",
+        "manufacturer": "Wachs für Holzerzeugnisse",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Hesse"
+    },
+    {
+        "name": "Pullex Imprägnier-Grund",
+        "manufacturer": "Holzschutzmittel auf nichttragenden Bauteilen",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Adler"
+    },
+    {
+        "name": "Rapid ELF",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "Raumfarbe",
+        "manufacturer": "Innenfarbe",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sefra farben"
+    },
+    {
+        "name": "Resitrix Classic",
+        "manufacturer": "Bitumen-Abdichtungsbahn",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Carlisle CM Group"
+    },
+    {
+        "name": "Resitrix Mb",
+        "manufacturer": "Bitumen-Abdichtungsbahn",
+        "Nachweisort": "",
+        "manufacturerName": "CARLISLE CM Group"
+    },
+    {
+        "name": "Resitrix SK P",
+        "manufacturer": "Bitumen-Abdichtungsbahn",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Carlisle CM Group"
+    },
+    {
+        "name": "Resitrix Skw",
+        "manufacturer": "Bitumen-Abdichtungsbahn",
+        "Nachweisort": "",
+        "manufacturerName": "CARLISLE CM Group"
+    },
+    {
+        "name": "SILIPERL",
+        "manufacturer": "Ausgleichschüttung nachwachsender Rohstoff",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Knauf"
+    },
+    {
+        "name": "STAUBEX",
+        "manufacturer": "Dämmschüttung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Knauf"
+    },
+    {
+        "name": "STAUBEX PLUS",
+        "manufacturer": "Ausgleichschüttung nachwachsender Rohstoff",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Knauf"
+    },
+    {
+        "name": "Schönox Slk",
+        "manufacturer": "Klebstoff",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Schönox"
+    },
+    {
+        "name": "Sealer Fr",
+        "manufacturer": "Lack auf Holzparkett",
+        "Nachweisort": "",
+        "manufacturerName": "Loba"
+    },
+    {
+        "name": "Sopra XPS SL",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Soprema"
+    },
+    {
+        "name": "Star Favorit",
+        "manufacturer": "Spanplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Fundermax"
+    },
+    {
+        "name": "Sto-Steinwolleplatte",
+        "manufacturer": "Mineralwolle-Fassadendämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Sto"
+    },
+    {
+        "name": "TB 160 easy",
+        "manufacturer": "Ausgleichschüttung nachwachsender Rohstoff",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Thermobound"
+    },
+    {
+        "name": "TB 250 plan",
+        "manufacturer": "Ausgleichschüttung nachwachsender Rohstoff",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Thermobound"
+    },
+    {
+        "name": "TB 400 power",
+        "manufacturer": "Ausgleichschüttung nachwachsender Rohstoff",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Thermobound"
+    },
+    {
+        "name": "Thermoflex",
+        "manufacturer": "Holzfaser-Gefachdämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Gutex"
+    },
+    {
+        "name": "Thermotec® Beps-Wd 90N",
+        "manufacturer": "Kunstschaum-Dämmplatte",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Mixit dämmstoffe"
+    },
+    {
+        "name": "Tiefgrund Gel E.L.F. Farblos",
+        "manufacturer": "Grundierung auf mineralischen Oberflächen (außen)",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Relius"
+    },
+    {
+        "name": "Tokyo Texture",
+        "manufacturer": "Textile Bodenbeläge",
+        "Nachweisort": "",
+        "manufacturerName": "Interface"
+    },
+    {
+        "name": "TopGel",
+        "manufacturer": "Füller auf Holzparkett",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Loba"
+    },
+    {
+        "name": "Uniopark",
+        "manufacturer": "Parkett",
+        "Nachweisort": "",
+        "manufacturerName": "Bauwerk"
+    },
+    {
+        "name": "Vapro Zero",
+        "manufacturer": "Bitumen-Abdichtungsbahn",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Soprema"
+    },
+    {
+        "name": "Villas Hydrostop Multi 4",
+        "manufacturer": "Bitumen-Abdichtungsbahn",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Bmi"
+    },
+    {
+        "name": "Villas Hydrostop Multi 5",
+        "manufacturer": "Bitumen-Abdichtungsbahn",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Bmi"
+    },
+    {
+        "name": "X-Foam Wafer Dämmplatte",
+        "manufacturer": "Sockeldämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Ediltec"
+    },
+    {
+        "name": "Zementgebundene Spanplatte Cetris",
+        "manufacturer": "Spanplatte",
+        "Nachweisort": "",
+        "manufacturerName": "Bausal GmbH"
+    },
+    {
+        "name": "ultra-takk PRO EPS-T 20-2",
+        "manufacturer": "Kunstschaum-Trittschalldämmung",
+        "Nachweisort": "Unknown",
+        "manufacturerName": "Schütz Energy Systems"
+    }
+]

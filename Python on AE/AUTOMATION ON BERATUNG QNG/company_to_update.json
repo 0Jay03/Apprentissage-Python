@@ -1,0 +1,730 @@
+[
+    {
+        "manufacturerName": "loba",
+        "name": "2k contact",
+        "company": "Herst.erkl. + NDB",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "loba",
+        "name": "2k ultraelastic",
+        "company": "Herst.erkl. + NDB",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "binderholz gmbh",
+        "name": "3-/5-schicht-massivholzplatte",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "geba",
+        "name": "avr deckenschitt",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "loba",
+        "name": "akzent 100 wax",
+        "company": "TDB S.1 +",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "loba",
+        "name": "akzent 100 öl",
+        "company": "TDB S.1 +",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "greenteq",
+        "name": "all-season pistolenschaum 1k klasse e",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "alpina",
+        "name": "alpinaweiß das original",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "adler",
+        "name": "aviva terra ultra-weiß",
+        "company": "Herst.erkl.",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "bauder",
+        "name": "baudereco",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "biofa",
+        "name": "bianco öl aqua rohholzeffekt 8689",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "biomin innensilikatfarbe",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "blütenweiss elf",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "conica",
+        "name": "conipur 249 fl/1",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "ceresit",
+        "name": "ct17",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "siga cover gmbh deutschland",
+        "name": "corvum 12/48",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "siga cover gmbh deutschland",
+        "name": "corvum 30/30",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "decomatt",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "decosatin elf seidenglänzende, wasserverdünnbare latexfarbe",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "würth",
+        "name": "dichtfolie streichbar",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "bmi",
+        "name": "divoroll kompakt 2s",
+        "company": "Herst.erkl.",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "knauf",
+        "name": "estroperl",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "isocell",
+        "name": "evolution",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps 300-l",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps 400-l",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps 500-l",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps etics bt-i",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps etics gf",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps etics gf-i",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps fabric",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps incline 1,67%",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps incline 2,00%",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps maestro",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps seismic 400-l",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps seismic 500-l",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps seismic 700-l",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fischer resources",
+        "name": "fischer cyclepor rapid",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "thermodämm",
+        "name": "faltplatte & rollbahn wlg 045",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "greenteq",
+        "name": "fensterschaum 1k klasse e",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps 300-i",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fibran",
+        "name": "fibranxps 700-l",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "firnweiss elf",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "firnweiss ready 20.0",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "eqtherm gmbh",
+        "name": "flächenheizungssystem holzfaser",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "dinova",
+        "name": "gel-grundierung",
+        "company": "NDB",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "alpina",
+        "name": "holzschutz grund",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "iso gmbh",
+        "name": "iso feuchtraumspachtel",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "iso gmbh",
+        "name": "iso haftgrund",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "iso gmbh",
+        "name": "iso malgrund",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "bmi",
+        "name": "isovill e-gw-b",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "plantag",
+        "name": "jordan nature-pur",
+        "company": "Herst.erkl.",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "karat",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "kora holzschutz",
+        "name": "koralan color-lasur",
+        "company": "NDB S. 2+3",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "kora holzschutz",
+        "name": "koralan dekorlasur",
+        "company": "NDB S. 2+3",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "kora holzschutz",
+        "name": "koralan designlasur",
+        "company": "NDB S. 2+3",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "knauf insulation",
+        "name": "lds kleberaupe",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "adler",
+        "name": "lignovit interior uv 100",
+        "company": "NDB S.2",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "lotos extrem",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "akurit",
+        "name": "mw 035 hp",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "akurit",
+        "name": "mw 035 rp",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "meister werke schulte",
+        "name": "meister paneele. craft",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "mineralfarbe für innen",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "knauf",
+        "name": "nivoperl",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "quick-mix",
+        "name": "oekotan grundierung bgr",
+        "company": "Herst.erkl.",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "knauf",
+        "name": "pa 50",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "teroson",
+        "name": "pt ecomax 600",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "erfurt",
+        "name": "papier-tapete",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "pci",
+        "name": "pecimor betongrund",
+        "company": "Herst.erkl.",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "wimmer",
+        "name": "pegma color",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "perlo elf",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "wolf bavaria",
+        "name": "phonestar",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "wolf bavaria",
+        "name": "phonestrip",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "wolf bavaria",
+        "name": "powerfloor light",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "wolf bavaria",
+        "name": "powerfloor slim",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fundermax",
+        "name": "premium star",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "hesse",
+        "name": "proterra cerol flüssigwachs ge 120",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "adler",
+        "name": "pullex imprägnier-grund",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "rapid elf",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sefra farben",
+        "name": "raumfarbe",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "carlisle cm group",
+        "name": "resitrix classic",
+        "company": "EPD S.3",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "carlisle cm group",
+        "name": "resitrix mb",
+        "company": "EPD S.3",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "carlisle cm group",
+        "name": "resitrix sk p",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "carlisle cm group",
+        "name": "resitrix skw",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "knauf",
+        "name": "siliperl",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "knauf",
+        "name": "staubex",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "knauf",
+        "name": "staubex plus",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "schönox",
+        "name": "schönox slk",
+        "company": "Herst.erkl.",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "soprema",
+        "name": "sopra xps sl",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "fundermax",
+        "name": "star favorit",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "sto",
+        "name": "sto-steinwolleplatte",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "thermobound",
+        "name": "tb 160 easy",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "thermobound",
+        "name": "tb 250 plan",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "thermobound",
+        "name": "tb 400 power",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "gutex",
+        "name": "thermoflex",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "mixit dämmstoffe",
+        "name": "thermotec® beps-wd 90n",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "relius",
+        "name": "tiefgrund gel e.l.f. farblos",
+        "company": "Herst.erkl.",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "interface",
+        "name": "tokyo texture",
+        "company": "TDB S.3",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "loba",
+        "name": "topgel",
+        "company": "TDB S. 1 + Herst.erkl.",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "soprema",
+        "name": "vapro zero",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "bmi",
+        "name": "villas hydrostop multi 4",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "bmi",
+        "name": "villas hydrostop multi 5",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "ediltec",
+        "name": "x-foam wafer dämmplatte",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "bausal gmbh",
+        "name": "zementgebundene spanplatte cetris",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    },
+    {
+        "manufacturerName": "schütz energy systems",
+        "name": "ultra-takk pro eps-t 20-2",
+        "company": "Unknown",
+        "code": "",
+        "applicationFieldPosition": "2.3.1"
+    }
+]

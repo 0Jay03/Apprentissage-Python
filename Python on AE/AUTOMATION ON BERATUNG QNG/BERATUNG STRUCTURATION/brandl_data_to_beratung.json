@@ -1,0 +1,619 @@
+[
+    {
+        "applicationArea": "Kautschuk-Bodenbelag",
+        "verificationDocument": "TDB + SDB",
+        "manufacturerName": "conica",
+        "name": "CONIPUR 249 FL/1",
+        "quantity": "≤1000 µg/m³",
+        "useArea": "",
+        "company": "",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "≤1000 µg/m³",
+        "employeesConcerned": [
+            "Estrichleger",
+            "Bodenleger",
+            "Fliesenleger"
+        ]
+    },
+    {
+        "applicationArea": "selbstverlaufender Bodenausgleich",
+        "verificationDocument": "SDB + TDB",
+        "manufacturerName": "mega",
+        "name": "660 Boden Standard-Spachte",
+        "quantity": "≤ 100 µg/m³",
+        "useArea": "Emicode EC1",
+        "company": "TDB S.1",
+        "constructionNearSurface": true,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": "≤ 100 µg/m³",
+        "employeesConcerned": []
+    },
+    {
+        "applicationArea": "Gipsspachtelmasse",
+        "verificationDocument": "EPD + SDB",
+        "manufacturerName": "knauf",
+        "name": "Estetico Universal",
+        "quantity": "< 1,0 mg/m³",
+        "useArea": "erfüllt AGBB; < 1,0 mg/m³",
+        "company": "EPD S.5 + 8",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": "< 1,0 mg/m³",
+        "employeesConcerned": [
+            "Verputzer",
+            "Maler",
+            "Trockenbau"
+        ]
+    },
+    {
+        "applicationArea": "Gipsspachtelmasse",
+        "verificationDocument": "EPD + SDB + TDB",
+        "manufacturerName": "knauf",
+        "name": "Finissimo Universal",
+        "quantity": 0,
+        "useArea": 0,
+        "company": "SDB S.4 + 6",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": 0,
+        "employeesConcerned": [
+            "Verputzer",
+            "Maler",
+            "Trockenbau"
+        ]
+    },
+    {
+        "applicationArea": "Innenfarbe",
+        "verificationDocument": "TM + SDB",
+        "manufacturerName": "alpina",
+        "name": "Alpinaweiß Das Original",
+        "quantity": "< 1 g/l",
+        "useArea": "lösemittelfrei und weichmacherfrei,",
+        "company": "",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": "< 1 g/l",
+        "employeesConcerned": [
+            "Verputzer",
+            "Maler"
+        ]
+    },
+    {
+        "applicationArea": "Innenfarbe",
+        "verificationDocument": "SDB + PDB + NDB",
+        "manufacturerName": "dörken gmbh &co.kg",
+        "name": "LUCITE® MultiResist PRO",
+        "quantity": "< 1 g/l",
+        "useArea": "lösemittelfrei, formaldehydfrei und weichmacherfrei gemäß VdL-Richtlinie 01",
+        "company": "NDB",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": "< 1 g/l",
+        "employeesConcerned": [
+            "Verputzer",
+            "Maler"
+        ]
+    },
+    {
+        "applicationArea": "Innenfarbe",
+        "verificationDocument": "SDB + PDB",
+        "manufacturerName": "sefra farben",
+        "name": "Decosatin ELF seidenglänzende, wasserverdünnbare Latexfarbe",
+        "quantity": " < 30 g/l",
+        "useArea": "erfüllt",
+        "company": "",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": " < 30 g/l",
+        "employeesConcerned": [
+            "Verputzer",
+            "Maler"
+        ]
+    },
+    {
+        "applicationArea": "EP Grundierung",
+        "verificationDocument": "SDB + TDB",
+        "manufacturerName": "sto",
+        "name": "StoPox GH 205",
+        "quantity": "< 30,7 g/l",
+        "useArea": "RE 30, AgBB eingehalten",
+        "company": "TDB S. 6",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": "< 30,7 g/l",
+        "employeesConcerned": [
+            "Trockenbau",
+            "Estrichleger",
+            "Bodenleger",
+            "Fliesenleger"
+        ]
+    },
+    {
+        "applicationArea": "Oberflächenbehandlung von Hölzern im Innenbereich",
+        "verificationDocument": "SDB + PDB",
+        "manufacturerName": "hesse",
+        "name": "Proterra CEROL Flüssigwachs GE 120",
+        "quantity": "< 1000 µm/m³",
+        "useArea": "",
+        "company": "",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": "< 1000 µm/m³",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau"
+        ]
+    },
+    {
+        "applicationArea": "Holzschutz-Grundierung",
+        "verificationDocument": "SDB",
+        "manufacturerName": "alpina",
+        "name": "Holzschutz Grund",
+        "quantity": "",
+        "useArea": "erfüllt",
+        "company": "",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": "",
+        "employeesConcerned": [
+            "Maler",
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Fensterbauer"
+        ]
+    },
+    {
+        "applicationArea": "OSB",
+        "verificationDocument": "EPD + Herstellererklärung + PDB",
+        "manufacturerName": "egger holzwerkstoffe wismar gmbh",
+        "name": "OSB 4 TOP Verlegeplatte",
+        "quantity": "keine Angabe",
+        "useArea": "erfüllt AgBB durch EPD, 0,03 ppm, Reproduktionstoxische Borverbindungen ≤ 0,10 %",
+        "company": "Herst.erkl. S.5",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "Herst.erkl. S.5",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "OSB",
+        "verificationDocument": "EPD + Herstellererklärung + REACH + PDB",
+        "manufacturerName": "swiss kronos",
+        "name": "OSB/4 EN300",
+        "quantity": "keine Angabe",
+        "useArea": "erfüllt AgBB durch EPD, 0,03 ppm, Reproduktionstoxische Borverbindungen ≤ 0,10 %",
+        "company": "Herst.erkl. + REACH + EPD",
+        "constructionNearSurface": false,
+        "expiryDate": "bis 06/2026",
+        "svhc": "REACH",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "OSB",
+        "verificationDocument": "EPD + PDB + Herstellererklärung",
+        "manufacturerName": "egger holzwerkstoffe wismar gmbh",
+        "name": "OSB 4 TOP gerade Kante",
+        "quantity": "keine Angabe",
+        "useArea": "erfüllt AgBB durch EPD, 0,03 ppm, Reproduktionstoxische Borverbindungen ≤ 0,10 %",
+        "company": "Herst.erkl. S.3+5",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "Herst.erkl. S.5",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "OSB",
+        "verificationDocument": "EPD + Herstellererklärung",
+        "manufacturerName": "egger holzwerkstoffe wismar gmbh",
+        "name": "OSB 3 Verlegeplatte",
+        "quantity": "keine Angabe",
+        "useArea": "erfüllt AgBB durch EPD, 0,03 ppm, Reproduktionstoxische Borverbindungen ≤ 0,10 %",
+        "company": "Herst.erkl. S.3+5",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "Herst.erkl. S.5",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "OSB",
+        "verificationDocument": "EPD + Herstellererklärung",
+        "manufacturerName": "egger holzwerkstoffe wismar gmbh",
+        "name": "OSB 3 gerade Kante",
+        "quantity": "keine Angabe",
+        "useArea": "erfüllt AgBB durch EPD, 0,03 ppm, Reproduktionstoxische Borverbindungen ≤ 0,10 %",
+        "company": "Herst.erkl. S.3+5",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "Herst.erkl. S.5",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "OSB",
+        "verificationDocument": "EPD + Herstellererklärung + REACH + PDB",
+        "manufacturerName": "swiss kronos",
+        "name": "OSB/3 EN300",
+        "quantity": "keine Angabe",
+        "useArea": "erfüllt AgBB durch EPD, 0,03 ppm, Reproduktionstoxische Borverbindungen ≤ 0,10 %",
+        "company": "Herst.erkl. + REACH + EPD",
+        "constructionNearSurface": false,
+        "expiryDate": "bis 06/2026",
+        "svhc": "REACH",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "Spanplatte",
+        "verificationDocument": "EPD + PDB + REACH",
+        "manufacturerName": "egger holzwerkstoffe wismar gmbh",
+        "name": "Eurodekor",
+        "quantity": "< 1 mg/m³",
+        "useArea": "erfüllt AgBB durch EPD, 0,01 ppm, Reproduktionstoxische Borverbindungen ≤ 0,10 %",
+        "company": "EPD S.3+12 + REACH",
+        "constructionNearSurface": false,
+        "expiryDate": "bis 05/2026",
+        "svhc": "REACH",
+        "voc": "< 1 mg/m³",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "Spanplatte",
+        "verificationDocument": "EPD + PDB + REACH",
+        "manufacturerName": "egger holzwerkstoffe wismar gmbh",
+        "name": "Eurospan",
+        "quantity": "keine Angabe",
+        "useArea": "erfüllt AgBB durch EPD, 0,02 ppm, Reproduktionstoxische Borverbindungen ≤ 0,10 %",
+        "company": "EPD S.3+11 + REACH",
+        "constructionNearSurface": false,
+        "expiryDate": "bis 05/2026",
+        "svhc": "REACH",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "Paneele",
+        "verificationDocument": "PDB + sentinel Haus",
+        "manufacturerName": "meister werke schulte",
+        "name": "Meister Paneele. Craft",
+        "quantity": "keine Angabe",
+        "useArea": "",
+        "company": "",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Schreiner",
+            "Trockenbau",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "Elastomerbitumenbahn mit Glasgewebeeinlag",
+        "verificationDocument": "PDB",
+        "manufacturerName": "bmi",
+        "name": "Isovill E-GW-B",
+        "quantity": "",
+        "useArea": "erfüllt",
+        "company": "",
+        "constructionNearSurface": true,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "",
+        "employeesConcerned": [
+            "Dachdecker"
+        ]
+    },
+    {
+        "applicationArea": "Elastomerbitumen-Dampfsperrbahn",
+        "verificationDocument": "PDB",
+        "manufacturerName": "bmi",
+        "name": "Villas Hydrostop Multi 4",
+        "quantity": "",
+        "useArea": "erfüllt",
+        "company": "",
+        "constructionNearSurface": true,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "",
+        "employeesConcerned": [
+            "Dachdecker"
+        ]
+    },
+    {
+        "applicationArea": "Elastomerbitumen-Dampfsperrbahn",
+        "verificationDocument": "PDB",
+        "manufacturerName": "bmi",
+        "name": "Villas Hydrostop Multi 5",
+        "quantity": "",
+        "useArea": "erfüllt",
+        "company": "",
+        "constructionNearSurface": true,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "",
+        "employeesConcerned": [
+            "Dachdecker"
+        ]
+    },
+    {
+        "applicationArea": "Horizontalsperre / Abdichtung unter Wänden",
+        "verificationDocument": "Herstellererklärung + TDB",
+        "manufacturerName": "dörken gmbh &co.kg",
+        "name": "Delta-Mauerwerkssperre",
+        "quantity": "keine Angabe",
+        "useArea": "keine Zinn-, Cadmium- und Bleistabilisatoren, keine Weichmacher",
+        "company": "Herst.erkl.",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "Herst.erkl.",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Fensterbauer",
+            "Instalatuer",
+            "Elektriker",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "Sauberkeitsschicht / Mauerschutz",
+        "verificationDocument": "Herstellererklärung ",
+        "manufacturerName": "dörken gmbh &co.kg",
+        "name": "Delta-Noppenbahn NB",
+        "quantity": "keine Angabe",
+        "useArea": "keine Zinn-, Cadmium- und Bleistabilisatoren, keine Weichmacher",
+        "company": "Herst.erkl.",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "Herst.erkl.",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Holzbauer",
+            "Zimmerer",
+            "Fensterbauer",
+            "Instalatuer",
+            "Elektriker",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "Wand-/Sockeldämmung",
+        "verificationDocument": "Hersteller Info, baubook",
+        "manufacturerName": "ediltec",
+        "name": "X-Foam Wafer Dämmplatte",
+        "quantity": "",
+        "useArea": "erfüllt",
+        "company": "",
+        "constructionNearSurface": true,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "",
+        "employeesConcerned": [
+            "Verputzer",
+            "Holzbauer",
+            "Zimmerer",
+            "Trockenbau",
+            "Dachdecker",
+            "Instalatuer"
+        ]
+    },
+    {
+        "applicationArea": "Wärmedämmplatte",
+        "verificationDocument": "PDB",
+        "manufacturerName": "bauder",
+        "name": "BauderECO",
+        "quantity": "",
+        "useArea": "erfüllt",
+        "company": "",
+        "constructionNearSurface": true,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "",
+        "employeesConcerned": [
+            "Verputzer",
+            "Holzbauer",
+            "Zimmerer",
+            "Trockenbau",
+            "Dachdecker",
+            "Instalatuer"
+        ]
+    },
+    {
+        "applicationArea": "Dämmstoffplatten",
+        "verificationDocument": "PDB",
+        "manufacturerName": "mixit dämmstoffe",
+        "name": "thermotec® BEPS-WD 90N",
+        "quantity": "< 1 mg/m³",
+        "useArea": "HBCD-frei",
+        "company": "",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "< 1 mg/m³",
+        "employeesConcerned": [
+            "Verputzer",
+            "Holzbauer",
+            "Zimmerer",
+            "Trockenbau",
+            "Dachdecker",
+            "Instalatuer"
+        ]
+    },
+    {
+        "applicationArea": "Deckendämmplatte",
+        "verificationDocument": "TM",
+        "manufacturerName": "akurit",
+        "name": "MW 035 RP",
+        "quantity": "keine Angabe",
+        "useArea": "RAL-Gütezeichen",
+        "company": "",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Verputzer",
+            "Holzbauer",
+            "Zimmerer",
+            "Trockenbau",
+            "Dachdecker"
+        ]
+    },
+    {
+        "applicationArea": "Deckendämmplatte",
+        "verificationDocument": "TM",
+        "manufacturerName": "akurit",
+        "name": "MW 035 HP",
+        "quantity": "keine Angabe",
+        "useArea": "RAL-Gütezeichen",
+        "company": "",
+        "constructionNearSurface": false,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "keine Angabe",
+        "employeesConcerned": [
+            "Verputzer",
+            "Holzbauer",
+            "Zimmerer",
+            "Trockenbau",
+            "Dachdecker"
+        ]
+    },
+    {
+        "applicationArea": "Unterdeckplatte",
+        "verificationDocument": "NDB + EPD Herstellererklärung",
+        "manufacturerName": "egger holzwerkstoffe wismar gmbh",
+        "name": "DHF",
+        "quantity": "",
+        "useArea": "keine Biozide und Reproduktionstoxische  Borverbindungen enthalten",
+        "company": "NDB S. 2+4",
+        "constructionNearSurface": true,
+        "expiryDate": "",
+        "svhc": "NDB S.4",
+        "voc": "",
+        "employeesConcerned": [
+            "Verputzer",
+            "Holzbauer",
+            "Zimmerer",
+            "Trockenbau",
+            "Dachdecker"
+        ]
+    },
+    {
+        "applicationArea": "Deckenschott",
+        "verificationDocument": "",
+        "manufacturerName": "geba",
+        "name": "AVR Deckenschitt",
+        "quantity": "",
+        "useArea": "",
+        "company": "",
+        "constructionNearSurface": true,
+        "expiryDate": "",
+        "svhc": "",
+        "voc": "",
+        "employeesConcerned": [
+            "Verputzer",
+            "Holzbauer",
+            "Zimmerer",
+            "Trockenbau",
+            "Fensterbauer",
+            "Instalatuer",
+            "Elektriker",
+            "Metallbauer"
+        ]
+    },
+    {
+        "applicationArea": "Silikondichtstoffe",
+        "verificationDocument": "SDB + PDB + ECO Zertifikat + Herstellererklärung",
+        "manufacturerName": "hilti austria",
+        "name": "Brandschutzdichtmasse Silikon CFS-S SIL",
+        "quantity": "",
+        "useArea": "keine Chlorparaffine, PBB, PBDE und TCEP",
+        "company": "Herst.erkl.",
+        "constructionNearSurface": true,
+        "expiryDate": "",
+        "svhc": "SDB",
+        "voc": "",
+        "employeesConcerned": [
+            "Verputzer",
+            "Holzbauer",
+            "Zimmerer",
+            "Trockenbau",
+            "Fensterbauer",
+            "Instalatuer",
+            "Elektriker",
+            "Metallbauer"
+        ]
+    }
+]
