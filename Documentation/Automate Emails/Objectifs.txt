@@ -1,0 +1,4 @@
+1.: extrait de Bons de livraisons
+2.: extrait de facture
+3.: classer automatiquement dans chaque fichier (fichier bon de livraison separé du fichier facture)
+4.: comparer les differents contenus. Attention: Les Dates de livraisons et de facturations sont tjrs differentes

@@ -1,0 +1,30 @@
+
+REQUIREMENTS:
+Adresse Mail
+MDP
+DROPBOX-TOKEN-ACCESS
+
+
+
+
+Step 01:
+Connexion vers le compte mail
+
+Step 02:
+Recuperation des mails contenant des fichiers attaches (.pdf)
+
+Step 03:
+Envoi des fichiers vers un emplacement Local (Creer un dossier pour chaque document attache (pdf) qui aura pour nom l'objet du mail + (si possible) la date)
+
+Step 04:
+Connexion vers DropBox
+
+Step 05:
+Envoi des Fichiers vers DROPBOX (En appliquant la meme logique que celle de l'enregistrement Local)
+NB: N'oublie pas de t'octroyer le droit d'ecriture sur DROPBOX (pour pouvoir envoyer les donnees)
+
+
+../
+
+Step 06:
+Fouille uniquement les nouveaux mails
